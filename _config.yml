@@ -28,7 +28,7 @@ twitter_username: rutwik_kul
 github_username:  rutwikkulkarni
 
 # Build settings
-remote_theme: jekyll-theme-hyde
+theme: minima
 plugins:
   - jekyll-feed
 
